@@ -65,7 +65,6 @@ export default function Table(){
     setTableName('');
     setTableLocation('');
   }
-  abc
   return(
           <div className="content">
     <div className="row">
